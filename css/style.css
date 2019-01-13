@@ -387,7 +387,7 @@ h1 {
     cursor: pointer;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .tab-button {
         width: 32%;
         font-size: 12px;
